@@ -1,5 +1,5 @@
 {
-    "name": "Redoy/GreetingPackage",
+    "name": "redoy/greeting-package",
     "autoload": {
         "psr-4": {
             "Redoy\\GreetingPackage\\": "src/"
