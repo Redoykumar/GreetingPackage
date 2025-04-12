@@ -1,0 +1,9 @@
+{
+    "name": "Redoy/GreetingPackage",
+    "autoload": {
+        "psr-4": {
+            "Redoy\\GreetingPackage\\": "src/"
+        }
+    },
+    "require": {}
+}
